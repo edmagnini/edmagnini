@@ -1,8 +1,8 @@
 ## Olá, me chamo Edson e sou desenvolvedor full stack! 
 <div align="center">
   <a href="https://github.com/edmagnini">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edmagnini&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmagnini&theme=merko&hide_border=false&&layout=compact"/>
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=edmagnini&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmagnini&theme=merko&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
